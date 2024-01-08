@@ -1,0 +1,12 @@
+.carousel-indicators.carousel-indicators-h {
+  position: relative;
+  margin: 0;
+  flex-direction: column;
+}
+
+.carousel-indicators.carousel-indicators-h [data-bs-target] {
+  text-indent: 0px;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+}/*# sourceMappingURL=carousel.css.map */
